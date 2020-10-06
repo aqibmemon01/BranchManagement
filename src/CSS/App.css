@@ -1,0 +1,61 @@
+
+.SignUpPage{
+  /* height: 100vh; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    width: 100%;
+    height: 700px;
+}
+.SignUpPage > form > h5{
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 40px;
+}
+.SignUpPage > form > p{
+  color: white;
+  font-size: medium;
+}
+.SignUpPage > p{
+  color: white;
+  font-size: medium;
+}
+.SignUpPage > form > button{
+  /* text-align: center; */
+  margin-left: 45%;
+}
+.login{
+  padding-top: 115px !important;
+  padding-bottom: 20px;
+}
+.logininput{
+  width: 400px;
+  margin-left: 34%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
